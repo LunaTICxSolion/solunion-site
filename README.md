@@ -53,7 +53,7 @@ opacity:0.2;
 
 <div class="container">
 
-<h1>SOLUNION</h1>
+<h1>SOLunION</h1>
 
 <div class="line"></div>
 
